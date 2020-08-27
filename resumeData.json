@@ -1,0 +1,182 @@
+{
+  "main": {
+    "name":"Sharif Zaman",
+    "description":"Front-end Developer",
+    "image":"sharif.jpg",
+    "bio":"I am an organized and self-driven individual, an enthusiastic Software, front end developer, WordPress developer who is eager to learn new things every day. Besides my interest in IT and programming, I have earned an MSc in Systems Engineering and Informatics from Czech University Life Sciences, I am passionate to work & develop my career in the field of IT.",
+    "contactmessage":"",
+    "email": "sharifzaman782@gmail.com",
+    "phone": "775339402",
+    "github":"https://github.com/SharifAktar",
+    "project":"https://github.com/SharifAktar?tab=repositories",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"Praha-9",
+      "zip": "19800"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/16xHLT5_ItGcpKvMl_S7ARRP5cfS4Ziqk/view?usp=sharing",
+    "social":[
+     
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/SMAKTARUZZAMAN1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sharif-aktaruzzaman63297932/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/SharifAktar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      
+      {
+     
+        "school": "CZECH UNIVERSITY OF LIFE SCIENCES",
+        "degree":"MSc in Systems Engineering and Informatics",
+        "graduated":"June 2020",
+        "description":" Server/Client side Web design, Artificial intelligence,  UML, Database, Cloud Computing, Computer and Internet technology, Information Engineering and many more valuable courses."
+    
+  }
+],
+
+    "training":[ 
+      {
+        "workshop":"T R A I N I N G & W O R K S H O P",
+        "course":"SAP Concur -RESTART COURSE",
+        "time":"Duration: (02/2018 – 05/2018)",
+        "description":"Technical support & services with concur & others company, Customer success, Implementation, Technical Consultants, Travel technical Support, Expense, technical Support and soft skills, Software development(SDLC) methods."
+      
+    
+  }
+],
+    "work":[
+      {
+        "company":"Musee Grévin s.r.o. Prague",
+        "title":"Front-end Developer",
+        "years":"From Sept-2019-present",
+        "description":" "
+      },
+      {
+        "company":"Solsersoft",
+        "title":"Junior Front-end Developer",
+        "years":"From Oct-2018 to March-2019",
+        "description":""
+      },
+      {
+        "company":"Hero Translating (HT International s.r.o.)",
+        "title":"Junior IT Support Specialist",
+        "years":"From Nov-2017 to Sept-2018",
+        "description":" "
+      }
+    ],
+
+    "myinterest":[
+      { 
+       
+        "company":"",
+        "title":" React.js, Python, Node.js",
+        "image": "Nail.jpg",
+        "years":"",
+        "description":""  },
+      {
+        "company":"Love Travel and enjoy to Play sports",
+        "title":"Love to play football & Cricket",
+        "years":"",
+        "description":"" 
+      },
+      { 
+      "company":" Poetry & Short story: ",
+      "title":"",
+      "years":"",
+      "description":""
+      }
+      
+    ],
+
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+     
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"Material UI",
+        "level":"60%"
+      },
+      {
+        "name":"git",
+        "level":"60%"
+      }
+    ]
+  },
+
+  
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Pixabe image search",
+        "category":"Image Search",
+        "image":"imagesearch.jpg",
+        "url":"https://github.com/SharifAktar/React_Image_Search_Project_using_The_Pixabay_API"
+      },
+      {
+        "title":"E-Commerce Products",
+        "category":"Example of Products",
+        "image":"simple.jpg",
+        "url":"https://github.com/SharifAktar/E_Commerce_Products_component_by_react.js"
+      },
+      {
+        "title":"React Movie Search",
+        "category":"Movie search",
+        "image":"Amazing-Movie-Search.jpg",
+        "url":"https://github.com/SharifAktar/React_Movie_Search_Project"
+      },
+      {
+        "title":"React To do list & Data Table",
+        "category":"Home, to do list, data table, contact",
+        "image":"todo-app.png",
+        "url":"https://github.com/SharifAktar/React_To_do-Data_Table"
+      },
+      {
+        "title":"Cart Counting",
+        "category":"e-commerce cart counting.",
+        "image":"inherit_mini121.png",
+        "url":"https://github.com/SharifAktar/Cart_counting_E_commerce_by_React"
+      },
+      {
+        "title":"React Weather API app",
+        "category":"To see current weather in famous places",
+        "image":"weatherapp.png",
+        "url":"https://github.com/SharifAktar/weather_app_API"
+      }
+    ]
+  }
+}
